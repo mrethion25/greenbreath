@@ -105,7 +105,8 @@ export const faq = [
     id: "9",
     question: "What is AQI??",
     answer:
-      "Absoluteupgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.
+      "AQI refers to the term air quality index which is used to mention the quality of air"
+  } 
 ];
 
 export const plans = [
