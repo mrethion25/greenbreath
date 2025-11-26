@@ -125,6 +125,21 @@ export const plans = [
     icon: "/images/circle.svg",
     logo: "/images/plan-1.png",
   },
+    {
+    id: "3",
+    title: "bg-turbo v1 & v2",
+    priceMonthly: 50,
+    priceYearly: 39,
+    caption: "best for 2bhk & big halls",
+    features: [
+      "Advanced feature",
+      "super fast cleaner",
+      "powerfull cleaner & AQI manager",
+      "affordable price",
+    ],
+    icon: "/images/triangle.svg",
+    logo: "/images/plan-2.png",
+  },
   {
     id: "1",
     title: "bg-turbo v1 & v2",
