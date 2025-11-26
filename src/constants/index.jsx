@@ -379,25 +379,25 @@ export const links = [
     id: "0",
     title: "Ios",
     icon: <Ios />,
-    url: "/",
+    url: "https://arimadev.vercel.app/",
   },
   {
     id: "1",
     title: "Android",
     icon: <Android />,
-    url: "/",
+    url: "https://arimadev.vercel.app/",
   },
   {
     id: "2",
     title: "Windows",
     icon: <Windows />,
-    url: "/",
+    url: "https://blinime.vercel.app/home",
   },
   {
     id: "3",
     title: "Web",
     icon: <Web />,
-    url: "/",
+    url: "https://blisic.vercel.app/",
   },
 ];
 
@@ -406,24 +406,24 @@ export const socials = [
     id: "0",
     title: "x",
     icon: "/images/socials/x.svg",
-    url: "/",
+    url: "https://arimadev.vercel.app/",
   },
   {
     id: "1",
     title: "Threads",
     icon: "/images/socials/threads.svg",
-    url: "/",
+    url: "https://arimadev.vercel.app/",
   },
   {
     id: "2",
     title: "Instagram",
     icon: "/images/socials/instagram.svg",
-    url: "/",
+    url: "https://arimadev.vercel.app/",
   },
   {
     id: "3",
     title: "Discord",
     icon: "/images/socials/discord.svg",
-    url: "/",
+    url: "https://discord.gg/cafe-bliss",
   },
 ];
