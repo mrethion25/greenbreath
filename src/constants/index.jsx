@@ -103,9 +103,9 @@ export const faq = [
   },
   {
     id: "9",
-    question: "What is AQI??",
+    question: "What is difference between base version & advance version",
     answer:
-      "AQI refers to the term air quality index which is used to mention the quality of air"
+      "base version focuses on quality + cheap availability on other side advance version focuses on tech & looks (and other factors same as base version) etc"
   } 
 ];
 
