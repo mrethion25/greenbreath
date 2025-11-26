@@ -73,40 +73,39 @@ export const faq = [
   },
   {
     id: "4",
-    question: "Do you have corporate plans?",
+    question: "how to buy your products?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "innitially we are an ``project`` startup, we are not producing real goods, after we deploy our project all over india, our products will be available on Amazon & flipkart etc.",
   },
   {
     id: "5",
-    question: "What happens when I’m out of storage?",
+    question: "do you guys ship all over india???",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "ofcourse our main producing spots are in new Delhi, with help of our partner we ship all over India",
   },
   {
     id: "6",
-    question: "Can I upgrade my plan?",
+    question: "how will i know which modal is best for me?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "in our pricing section you can see our all modal's & their compability.",
   },
   {
     id: "7",
-    question: "How do I invite my team?",
+    question: "what technology is used by greenbreath???",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "we use carbon cleaning & pm2.5 extractor in our modals which can switch AQI of 500 to 50-90",
   },
   {
     id: "8",
-    question: "Do you offer training for individuals and teams?",
+    question: "why do i even need these products???",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "our lungs are very sensitive organ, it gets damaged whenever you breath this poisonous gas, the effect isn't noticable in short run, but it harshly damages your lung in long term. WHICH RESULTS IN CANCER, ASTHMA & CARDIAC ARREST",
   },
   {
     id: "9",
-    question: "I’m locked out of my account what do I do?",
+    question: "What is AQI??",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
-  },
+      "Absoluteupgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.
 ];
 
 export const plans = [
