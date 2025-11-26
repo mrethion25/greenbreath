@@ -7,7 +7,7 @@ export const features = [
     text: "get cleaner air for cheap.",
     button: {
       icon: "/images/magictouch.svg",
-      title: "Watch the demo",
+      title: "research yourself",
     },
   },
   {
@@ -18,7 +18,7 @@ export const features = [
     text: "Your lung's healt is our top priority.",
     button: {
       icon: "/images/docs.svg",
-      title: "Read the docs",
+      title: "check AQI in your city",
     },
   },
 ];
@@ -32,12 +32,12 @@ export const details = [
   {
     id: "1",
     icon: "/images/detail-2.png",
-    title: "Collaborate with your team",
+    title: "powerfull machine",
   },
   {
     id: "2",
     icon: "/images/detail-3.png",
-    title: "Ultra fast engine",
+    title: "fast results",
   },
   {
     id: "3",
