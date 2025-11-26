@@ -176,7 +176,7 @@ export const testimonials = [
   },
   {
     id: "2",
-    name: "agness prima bala",
+    name: "agnesss",
     role: "Co founder of bliss",
     avatarUrl: "/images/testimonials/melanie-hurst.png",
     comment:
