@@ -160,51 +160,51 @@ export const plans = [
 export const testimonials = [
   {
     id: "0",
-    name: "Jessica Saunders",
-    role: "Globalnomads",
+    name: "Arima",
+    role: "web developer & CEO",
     avatarUrl: "/images/testimonials/jessica-saunders.png",
     comment:
-      "Xora's customer support is second to none! They’re like my tech superheroes, always there when I need them.",
+      "i am personally using gb-lite v2 and it helps me breath real air instead this poison .",
   },
   {
     id: "1",
-    name: "Mark Erixon",
-    role: "Vid capital intl",
+    name: "Modi nagar",
+    role: "tester",
     avatarUrl: "/images/testimonials/mark-erixon.png",
     comment:
-      "I was skeptical at first, but now I can't imagine our content operations without it. It's that impactful.",
+      "i got 2 modals for testing purpose and the experience was really premium & good.",
   },
   {
     id: "2",
-    name: "Melanie Hurst",
-    role: "Cyberleap",
+    name: "agness prima bala",
+    role: "Co founder of bliss",
     avatarUrl: "/images/testimonials/melanie-hurst.png",
     comment:
-      "Adopting this software was a breeze. It's made everyday tasks so much simpler.",
+      "we expected nothing less then this op project by arima.",
   },
   {
     id: "3",
-    name: "Alicia Barker",
-    role: "Cyberleap",
+    name: "rekha gupta",
+    role: "Customer",
     avatarUrl: "/images/testimonials/alicia-barker.png",
     comment:
-      "The analytics feature is like having a personal fortune teller. It's been instrumental in guiding our business decisions.",
+      "i have a 4bhk room and traditional air purifiers costs almost ₹20k+, we lost hope but we found GREENBREATH and trust me it's very premium experience in very affordable price.",
   },
   {
     id: "4",
-    name: "Becky Snider",
-    role: "Floclips",
+    name: "anonymous customer",
+    role: "customer",
     avatarUrl: "/images/testimonials/becky-snider.png",
     comment:
-      "Switched to Xora last month, and I'm already seeing results. Best decision for our team!",
+      "Switched to greenbreath last month, and I'm already seeing results. Best decision for me, I'll recommend maybe sacrifice AC or HEATER  etc for these air purifier if u can't afford them",
   },
   {
     id: "5",
-    name: "Jim Bradley",
+    name: "jim bradley",
     role: "Vid capital intl",
     avatarUrl: "/images/testimonials/jim-bradley.png",
     comment:
-      "The efficiency boost is undeniable. This platform has transformed our workflow, forever.",
+      "The efficiency boost is undeniable. This platform has transformed our experience in every aspect.",
   },
 ];
 
@@ -218,28 +218,28 @@ export const logos = [
   },
   {
     id: "1",
-    title: "Amplitude",
+    title: "VIVEK",
     url: "/images/logos/amplitude.svg",
     width: 194,
     height: 48,
   },
   {
     id: "2",
-    title: "Sonos",
+    title: "GOVIND",
     url: "/images/logos/sonos.svg",
     width: 115,
     height: 48,
   },
   {
     id: "3",
-    title: "Maze",
+    title: "ANIKET KASHYAP",
     url: "/images/logos/maze.svg",
     width: 142,
     height: 48,
   },
   {
     id: "4",
-    title: "Drips",
+    title: "AARAV JHA",
     url: "/images/logos/drips.svg",
     width: 77,
     height: 48,
