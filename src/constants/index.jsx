@@ -51,25 +51,25 @@ export const faq = [
     id: "0",
     question: "why always greenbreath?? ",
     answer:
-      "greenbreath provides clean air with easy tech amd easy setup",
+      "greenbreath provides clean air with easy tech amd easy setup in affordable price",
   },
   {
     id: "1",
     question: "Can I add greenbreath in main hall??",
     answer:
-      "Absolutely!   our turbo cleaner is mainly focused on 2bhk+ rooms and hall.",
+      "Absolutely!   our gb-turbo v1 cleaner is mainly focused on 2bhk+ rooms and hall.",
   },
   {
     id: "2",
-    question: "How often do you add new content?",
+    question: "any waranty greenbreath provide??",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Absolutely! yes we have 7 day return policy 30 days warranty & additional cleaner.",
   },
   {
     id: "3",
-    question: "What your refund policy?",
+    question: "how many modals you guys provide??",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "greenbreath initially have 5 modals - lite v1 (lightweight cleaner), lite v2 (an upgraded version of lite v1), gb-turbo v1 (an very advanced aqi manager can cover a large room easily), gb-turbo v2 (an advanced version of turbo v1), gb-advanced (our most powerful air cleaner with extensive features)",
   },
   {
     id: "4",
