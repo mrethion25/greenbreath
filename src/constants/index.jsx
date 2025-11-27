@@ -113,8 +113,8 @@ export const plans = [
   {
     id: "0",
     title: "lite v1 & v2",
-    priceMonthly: 10,
-    priceYearly: 9,
+    priceMonthly: 1199,
+    priceYearly: 899,
     caption: "Best for single rooms & PGs",
     features: [
       "cheap and easy installation",
@@ -128,8 +128,8 @@ export const plans = [
     {
     id: "3",
     title: "bg-turbo v1 & v2",
-    priceMonthly: 50,
-    priceYearly: 39,
+    priceMonthly: 4999,
+    priceYearly: 4500,
     caption: "best for 2bhk & big halls",
     features: [
       "Advanced feature",
@@ -142,15 +142,15 @@ export const plans = [
   },
   {
     id: "1",
-    title: "bg-turbo v1 & v2",
-    priceMonthly: 50,
-    priceYearly: 39,
+    title: "bg-dev v1 & v2",
+    priceMonthly: 00,
+    priceYearly: 00,
     caption: "best for 2bhk & big halls",
     features: [
-      "Advanced feature",
-      "super fast cleaner",
-      "powerfull cleaner & AQI manager",
-      "affordable price",
+      "IN DEV",
+      "IN DEV",
+      "IN DEV",
+      "IN DEV",
     ],
     icon: "/images/triangle.svg",
     logo: "/images/plan-2.png",
@@ -158,8 +158,8 @@ export const plans = [
   {
     id: "2",
     title: "bg-advanced",
-    priceMonthly: 68,
-    priceYearly: 60,
+    priceMonthly: 00,
+    priceYearly: 00,
     caption: "Exclusively for big places like marriage halls, public spots etc",
     features: [
       "IN PRODUCTION ",
