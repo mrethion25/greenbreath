@@ -143,8 +143,8 @@ export const plans = [
   {
     id: "1",
     title: "bg-dev v1 & v2",
-    priceMonthly: 00,
-    priceYearly: 00,
+    priceMonthly: 9999,
+    priceYearly: 9999,
     caption: "best for 2bhk & big halls",
     features: [
       "IN DEV",
@@ -158,8 +158,8 @@ export const plans = [
   {
     id: "2",
     title: "bg-advanced",
-    priceMonthly: 00,
-    priceYearly: 00,
+    priceMonthly: 9999,
+    priceYearly: 9999,
     caption: "Exclusively for big places like marriage halls, public spots etc",
     features: [
       "IN PRODUCTION ",
